@@ -1,6 +1,6 @@
-# ${\color{blue}  ML-DL-Interview-short-Question-and-answer}$
-![interview q2](https://user-images.githubusercontent.com/88526572/215076345-bd4b18f9-6cbd-4093-8908-db81fa7220be.jpg)
-
+# ${\color{blue}  ML-DL-Interview-short-Question-and-answer}$<br>
+![interview q2](https://user-images.githubusercontent.com/88526572/215076345-bd4b18f9-6cbd-4093-8908-db81fa7220be.jpg)<br>
+[Kaggel Notebook:](https://www.kaggle.com/code/mdriponmiah/ml-dl-interview-short-question-and-answer) https://www.kaggle.com/code/mdriponmiah/ml-dl-interview-short-question-and-answer <br>
 # ${\color{red} Objective:}$<br>
 
 ```diff
